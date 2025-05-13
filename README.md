@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **sowmithmdr@gmail.com**
 
+<p align="center">
+  <img src="https://w0.peakpx.com/wallpaper/443/902/HD-wallpaper-big-hero-6-baymax-disney-digital-painting-fan-art-character-design-graphic-design-ultra-big-hero-6-baymax.jpg" alt="Baymax" width="400"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sowmith-madoori-4b895b298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sowmith-madoori-4b895b298/" height="30" width="40" /></a>
