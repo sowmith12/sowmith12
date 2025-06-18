@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **memory and verilog based projects**
 
 - 📫 How to reach me **sowmithmdr@gmail.com**
-
+- 📫 my portfolio  **https://sowmith12.github.io/my-website/**
 <p align="center">
   <img src="https://w0.peakpx.com/wallpaper/443/902/HD-wallpaper-big-hero-6-baymax-disney-digital-painting-fan-art-character-design-graphic-design-ultra-big-hero-6-baymax.jpg" alt="Baymax" width="400"/>
 </p>
